@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="F:/sOfTwArEs/Important softs/MySQL/mysql-connector-java-3.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubham Garg/Downloads/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre7/sqljdbc41.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Downloads/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="out/production/untitled"/>
+</classpath>
